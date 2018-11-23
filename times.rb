@@ -3,6 +3,7 @@ def using_times(phrase = "Wingardium Leviosa")
     puts {phrase}
   end 
 end
+using_times(phrase)
 
 
 
