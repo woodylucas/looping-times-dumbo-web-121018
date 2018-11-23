@@ -1,6 +1,8 @@
-def using_times
+def using_times(phrase)
+  7.times do 
+    puts "Win"
 end
-using_times
+
 
 
 
